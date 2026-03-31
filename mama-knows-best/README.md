@@ -34,7 +34,7 @@ A warm, professional baby advice blog built with pure HTML/CSS — no frameworks
 4. Click **Save**
 
 Your site will be live at:
-**`https://YOUR-USERNAME.github.io/mama-knows-best/`**
+**`https://hijmayer.github.io/mama-knows-best/`**
 
 (It may take 1–2 minutes to go live the first time.)
 
@@ -44,7 +44,7 @@ Your site will be live at:
 
 Once your site is live, do a find-and-replace in all HTML files:
 
-- Replace: `YOUR-USERNAME`
+- Replace: `hijmayer`
 - With: your actual GitHub username
 
 You can do this right in GitHub — click any file, click the ✏️ edit button, make your changes, and click **Commit changes**.
