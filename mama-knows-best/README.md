@@ -34,7 +34,7 @@ A warm, professional baby advice blog built with pure HTML/CSS — no frameworks
 4. Click **Save**
 
 Your site will be live at:
-**`https://hijmayer.github.io/mama-knows-best/`**
+**`https://mamaknowsbest.live/`**
 
 (It may take 1–2 minutes to go live the first time.)
 
