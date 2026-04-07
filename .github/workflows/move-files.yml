@@ -1,0 +1,22 @@
+name: Move files to root
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/move-files.yml']
+permissions:
+  contents: write
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Move files to root and commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          shopt -s dotglob
+          mv mama-knows-best/* .
+          rm -rf mama-knows-best
+          git add -A
+          git commit -m "Move site files from subfolder to repo root"
+          git push
