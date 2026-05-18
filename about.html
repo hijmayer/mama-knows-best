@@ -86,12 +86,13 @@
   <div style="background: var(--cream); border-radius: var(--radius-lg); padding: 40px; margin: 32px 0;">
     <h3 style="font-family: var(--font-serif); font-size: 1.4rem; margin-bottom: 8px; color: var(--charcoal);">Send Me a Message 💌</h3>
     <p style="color: var(--mid-gray); font-size: 0.9rem; margin-bottom: 24px;">I read every single one.</p>
-    <form onsubmit="handleContact(event)" style="display:flex; flex-direction:column; gap:16px;">
+    <form action="mailto:jordanlgellatly@gmail.com" method="get" enctype="text/plain" onsubmit="handleContact(event)" style="display:flex; flex-direction:column; gap:16px;">
       <input type="text" placeholder="Your name" required style="padding:14px 18px; border: 1px solid var(--light-gray); border-radius: var(--radius); font-size:0.95rem; font-family: var(--font-sans); outline:none;" />
       <input type="email" placeholder="Your email" required style="padding:14px 18px; border: 1px solid var(--light-gray); border-radius: var(--radius); font-size:0.95rem; font-family: var(--font-sans); outline:none;" />
       <textarea placeholder="Your message..." rows="5" required style="padding:14px 18px; border: 1px solid var(--light-gray); border-radius: var(--radius); font-size:0.95rem; font-family: var(--font-sans); outline:none; resize:vertical;"></textarea>
       <button type="submit" class="btn btn-primary" style="align-self:flex-start;">Send Message 💌</button>
     </form>
+  <p class="contact-email-note" style="margin-top:1rem;font-size:0.95rem;color:#666;">Or email directly: <a href="mailto:jordanlgellatly@gmail.com" style="color:#e8698a;font-weight:600;">jordanlgellatly@gmail.com</a></p>
     <p id="contact-success" style="display:none; color:var(--sage-dark); font-weight:700; margin-top:16px;">✅ Message sent! I'll be in touch soon.</p>
   </div>
 
