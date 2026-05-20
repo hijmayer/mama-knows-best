@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mama Knows Best – Baby &amp; Parenting Advice</title>
+    <link>https://mamaknowsbest.live</link>
+    <description>Real, honest parenting advice from a real mama — sleep training, breastfeeding, baby development, postpartum recovery and more.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2026 17:08:38 GMT</lastBuildDate>
+    <atom:link href="https://mamaknowsbest.live/feed.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://mamaknowsbest.live/images/og-default.jpg</url>
+      <title>Mama Knows Best</title>
+      <link>https://mamaknowsbest.live</link>
+    </image>
+  <item>
+    <title><![CDATA[The Gentle Sleep Training Guide Every Exhausted Mama Needs]]></title>
+    <link>https://mamaknowsbest.live/blog/sleep-training-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/sleep-training-guide.html</guid>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Sleep]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Newborn Sleep Patterns: What to Expect]]></title>
+    <link>https://mamaknowsbest.live/blog/newborn-sleep-patterns.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/newborn-sleep-patterns.html</guid>
+    <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Sleep]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Sleep Regressions: Surviving Every Stage]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-sleep-regressions.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-sleep-regressions.html</guid>
+    <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Sleep]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[The Perfect Toddler Sleep Schedule]]></title>
+    <link>https://mamaknowsbest.live/blog/toddler-sleep-schedule.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/toddler-sleep-schedule.html</guid>
+    <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Sleep]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Safe Sleep Guidelines Every Parent Should Know]]></title>
+    <link>https://mamaknowsbest.live/blog/safe-sleep-guidelines.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/safe-sleep-guidelines.html</guid>
+    <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Sleep]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Breastfeeding Tips for New Moms]]></title>
+    <link>https://mamaknowsbest.live/blog/breastfeeding-tips-for-new-moms.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/breastfeeding-tips-for-new-moms.html</guid>
+    <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Feeding]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Common Breastfeeding Challenges and How to Overcome Them]]></title>
+    <link>https://mamaknowsbest.live/blog/breastfeeding-challenges.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/breastfeeding-challenges.html</guid>
+    <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Feeding]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[The Complete Breastfeeding & Pumping Guide]]></title>
+    <link>https://mamaknowsbest.live/blog/breastfeeding-pumping-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/breastfeeding-pumping-guide.html</guid>
+    <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Feeding]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Formula Feeding: A Complete Guide]]></title>
+    <link>https://mamaknowsbest.live/blog/formula-feeding-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/formula-feeding-guide.html</guid>
+    <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Feeding]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Newborn Feeding Tips for the First Weeks]]></title>
+    <link>https://mamaknowsbest.live/blog/newborn-feeding-tips.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/newborn-feeding-tips.html</guid>
+    <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Feeding]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Introducing Solid Foods: A Step-by-Step Guide]]></title>
+    <link>https://mamaknowsbest.live/blog/introducing-solid-foods.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/introducing-solid-foods.html</guid>
+    <pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Feeding]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby-Led Weaning: The Complete Guide]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-led-weaning-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-led-weaning-guide.html</guid>
+    <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Feeding]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Food Allergies: What Every Parent Should Know]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-food-allergies.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-food-allergies.html</guid>
+    <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Feeding]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Toddler Nutrition Guide]]></title>
+    <link>https://mamaknowsbest.live/blog/toddler-nutrition-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/toddler-nutrition-guide.html</guid>
+    <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Feeding]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Toddler Picky Eating: Strategies That Actually Work]]></title>
+    <link>https://mamaknowsbest.live/blog/toddler-picky-eating.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/toddler-picky-eating.html</guid>
+    <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Feeding]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Milestones: The First Year]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-milestones-first-year.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-milestones-first-year.html</guid>
+    <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Development]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Brain Development: How to Support It]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-brain-development.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-brain-development.html</guid>
+    <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Development]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Development: 3 to 6 Months]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-development-3-6-months.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-development-3-6-months.html</guid>
+    <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Development]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Developmental Delays: What to Watch For]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-developmental-delays.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-developmental-delays.html</guid>
+    <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Development]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Toddler Language Development]]></title>
+    <link>https://mamaknowsbest.live/blog/toddler-language-development.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/toddler-language-development.html</guid>
+    <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Development]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Colic: Soothing Techniques That Work]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-colic-soothing-techniques.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-colic-soothing-techniques.html</guid>
+    <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Health]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Constipation: Causes & Relief]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-constipation-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-constipation-guide.html</guid>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Health]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Eczema: A Parent's Complete Guide]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-eczema-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-eczema-guide.html</guid>
+    <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Health]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Gas Relief: Tips for a Happier Baby]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-gas-relief.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-gas-relief.html</guid>
+    <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Health]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Vaccination Guide: What Parents Need to Know]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-vaccination-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-vaccination-guide.html</guid>
+    <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Health]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Diaper Rash: Causes and Treatments]]></title>
+    <link>https://mamaknowsbest.live/blog/diaper-rash-causes-and-treatment.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/diaper-rash-causes-and-treatment.html</guid>
+    <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Health]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Teething Remedies That Really Work]]></title>
+    <link>https://mamaknowsbest.live/blog/teething-remedies.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/teething-remedies.html</guid>
+    <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Health]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Massage Guide: Benefits and Techniques]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-massage-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-massage-guide.html</guid>
+    <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Health]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Potty Training Tips That Actually Work]]></title>
+    <link>https://mamaknowsbest.live/blog/potty-training-tips.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/potty-training-tips.html</guid>
+    <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Toddler]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Raising Independent Toddlers]]></title>
+    <link>https://mamaknowsbest.live/blog/raising-independent-toddlers.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/raising-independent-toddlers.html</guid>
+    <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Toddler]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Toddler Discipline: A Gentle Guide]]></title>
+    <link>https://mamaknowsbest.live/blog/toddler-discipline-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/toddler-discipline-guide.html</guid>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Toddler]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Toddler Screen Time: Guidelines and Tips]]></title>
+    <link>https://mamaknowsbest.live/blog/toddler-screen-time.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/toddler-screen-time.html</guid>
+    <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Toddler]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Toddler Tantrums: How to Handle Them Calmly]]></title>
+    <link>https://mamaknowsbest.live/blog/toddler-tantrum-tips.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/toddler-tantrum-tips.html</guid>
+    <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Toddler]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Managing Mom Guilt]]></title>
+    <link>https://mamaknowsbest.live/blog/managing-mom-guilt.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/managing-mom-guilt.html</guid>
+    <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Postpartum]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[How Partners Can Support New Moms Postpartum]]></title>
+    <link>https://mamaknowsbest.live/blog/partner-support-postpartum.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/partner-support-postpartum.html</guid>
+    <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Postpartum]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Postpartum Body Changes: What's Normal]]></title>
+    <link>https://mamaknowsbest.live/blog/postpartum-body-changes.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/postpartum-body-changes.html</guid>
+    <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Postpartum]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Signs of Postpartum Depression and When to Seek Help]]></title>
+    <link>https://mamaknowsbest.live/blog/postpartum-depression-signs.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/postpartum-depression-signs.html</guid>
+    <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Postpartum]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Postpartum Recovery Tips]]></title>
+    <link>https://mamaknowsbest.live/blog/postpartum-recovery-tips.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/postpartum-recovery-tips.html</guid>
+    <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Postpartum]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Self-Care for New Moms]]></title>
+    <link>https://mamaknowsbest.live/blog/self-care-for-moms.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/self-care-for-moms.html</guid>
+    <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Postpartum]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Common Pregnancy Discomforts and How to Handle Them]]></title>
+    <link>https://mamaknowsbest.live/blog/pregnancy-discomforts.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/pregnancy-discomforts.html</guid>
+    <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Pregnancy]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Pregnancy Exercise Guide: Safe Workouts]]></title>
+    <link>https://mamaknowsbest.live/blog/pregnancy-exercise-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/pregnancy-exercise-guide.html</guid>
+    <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Pregnancy]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Pregnancy Nutrition Guide]]></title>
+    <link>https://mamaknowsbest.live/blog/pregnancy-nutrition-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/pregnancy-nutrition-guide.html</guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Pregnancy]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[How to Pack Your Hospital Bag]]></title>
+    <link>https://mamaknowsbest.live/blog/packing-hospital-bag.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/packing-hospital-bag.html</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Pregnancy]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Preparing Siblings for a New Baby]]></title>
+    <link>https://mamaknowsbest.live/blog/preparing-siblings-new-baby.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/preparing-siblings-new-baby.html</guid>
+    <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Pregnancy]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Newborn Care Essentials for New Parents]]></title>
+    <link>https://mamaknowsbest.live/blog/newborn-care-essentials.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/newborn-care-essentials.html</guid>
+    <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Pregnancy]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Newborn Jaundice: A Parent's Guide]]></title>
+    <link>https://mamaknowsbest.live/blog/newborn-jaundice-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/newborn-jaundice-guide.html</guid>
+    <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Pregnancy]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Newborn Weight Gain: What's Normal]]></title>
+    <link>https://mamaknowsbest.live/blog/newborn-weight-gain.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/newborn-weight-gain.html</guid>
+    <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Pregnancy]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[The Fourth Trimester: What No One Tells You]]></title>
+    <link>https://mamaknowsbest.live/blog/fourth-trimester-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/fourth-trimester-guide.html</guid>
+    <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Postpartum]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Best Baby Gear: What You Actually Need]]></title>
+    <link>https://mamaknowsbest.live/blog/best-baby-gear.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/best-baby-gear.html</guid>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Baby Gear]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Proofing Checklist: Room by Room]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-proofing-checklist.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-proofing-checklist.html</guid>
+    <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Baby Gear]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Car Seat Safety Guide]]></title>
+    <link>https://mamaknowsbest.live/blog/car-seat-safety-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/car-seat-safety-guide.html</guid>
+    <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Baby Gear]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  <item>
+    <title><![CDATA[Baby Swimming Guide: When and How to Start]]></title>
+    <link>https://mamaknowsbest.live/blog/baby-swimming-guide.html</link>
+    <guid isPermaLink="true">https://mamaknowsbest.live/blog/baby-swimming-guide.html</guid>
+    <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
+    <category><![CDATA[Baby Gear]]></category>
+    <author>jordanlgellatly@gmail.com (Jordan)</author>
+  </item>
+  </channel>
+</rss>
