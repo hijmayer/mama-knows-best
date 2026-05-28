@@ -1,158 +1,94 @@
-# 🌸 Mama Knows Best — Setup Guide
+# Mama Knows Best
 
-A warm, professional baby advice blog built with pure HTML/CSS — no frameworks needed. Ready to deploy on GitHub Pages and monetize with Google AdSense.
+A trusted parenting and baby care blog written by Jordan — covering everything from newborn essentials to toddler milestones, backed by research and real-life experience.
 
----
-
-## 🚀 How to Get Your Site Live (Step by Step)
-
-### Step 1: Create a GitHub Repository
-
-1. Go to [github.com](https://github.com) and sign in
-2. Click the **+** button → **New repository**
-3. Name it: `mama-knows-best`
-4. Make sure it's set to **Public**
-5. Click **Create repository**
+🌐 **Website:** [https://mamaknowsbest.live](https://mamaknowsbest.live)
+📝 **Blog:** [https://mamaknowsbest.live/blog/](https://mamaknowsbest.live/blog/)
+🛍️ **Recommended Products:** [https://mamaknowsbest.live/recommended-products.html](https://mamaknowsbest.live/recommended-products.html)
 
 ---
 
-### Step 2: Upload Your Files
+## 🤱 Newborn Care
 
-1. On the empty repo page, click **uploading an existing file** (or drag and drop)
-2. Upload **all files and the `blog` folder** from this zip
-3. Click **Commit changes**
+- [Newborn Care Essentials](https://mamaknowsbest.live/blog/newborn-care-essentials.html)
+- [Newborn Feeding Tips](https://mamaknowsbest.live/blog/newborn-feeding-tips.html)
+- [Newborn Sleep Patterns](https://mamaknowsbest.live/blog/newborn-sleep-patterns.html)
+- [Newborn Weight Gain](https://mamaknowsbest.live/blog/newborn-weight-gain.html)
+- [Newborn Jaundice Guide](https://mamaknowsbest.live/blog/newborn-jaundice-guide.html)
+- [Safe Sleep Guidelines for Babies](https://mamaknowsbest.live/blog/safe-sleep-guidelines.html)
+- [Tummy Time Guide](https://mamaknowsbest.live/blog/tummy-time-guide.html)
 
-> ⚠️ Make sure to upload the `blog/` folder as a folder, not the individual files separately
+## 🍼 Feeding & Nutrition
 
----
+- [Breastfeeding & Pumping Guide](https://mamaknowsbest.live/blog/breastfeeding-pumping-guide.html)
+- [Breastfeeding Tips for New Moms](https://mamaknowsbest.live/blog/breastfeeding-tips-for-new-moms.html)
+- [Breastfeeding Challenges](https://mamaknowsbest.live/blog/breastfeeding-challenges.html)
+- [Formula Feeding Guide](https://mamaknowsbest.live/blog/formula-feeding-guide.html)
+- [Introducing Solid Foods](https://mamaknowsbest.live/blog/introducing-solid-foods.html)
+- [Baby-Led Weaning Guide](https://mamaknowsbest.live/blog/baby-led-weaning-guide.html)
+- [Baby Food Allergies](https://mamaknowsbest.live/blog/baby-food-allergies.html)
+- [Toddler Nutrition Guide](https://mamaknowsbest.live/blog/toddler-nutrition-guide.html)
 
-### Step 3: Enable GitHub Pages
+## 😴 Sleep
 
-1. Go to your repo → **Settings** → **Pages** (in the left sidebar)
-2. Under **Source**, select **Deploy from a branch**
-3. Choose **main** branch and **/ (root)** folder
-4. Click **Save**
+- [Baby Sleep Regressions](https://mamaknowsbest.live/blog/baby-sleep-regressions.html)
+- [Sleep Training Methods](https://mamaknowsbest.live/blog/sleep-training-methods.html)
+- [Newborn Sleep Patterns](https://mamaknowsbest.live/blog/newborn-sleep-patterns.html)
 
-Your site will be live at:
-**`https://mamaknowsbest.live/`**
+## 👶 Baby Development & Milestones
 
-(It may take 1–2 minutes to go live the first time.)
+- [Baby Milestones: First Year](https://mamaknowsbest.live/blog/baby-milestones-first-year.html)
+- [Baby Development: 3–6 Months](https://mamaknowsbest.live/blog/baby-development-3-6-months.html)
+- [Baby Brain Development](https://mamaknowsbest.live/blog/baby-brain-development.html)
+- [Baby Developmental Delays](https://mamaknowsbest.live/blog/baby-developmental-delays.html)
+- [Baby Massage Guide](https://mamaknowsbest.live/blog/baby-massage-guide.html)
 
----
+## 🏥 Baby Health & Safety
 
-### Step 4: Update Your URLs
+- [Baby Vaccination Guide](https://mamaknowsbest.live/blog/baby-vaccination-guide.html)
+- [Baby Eczema Guide](https://mamaknowsbest.live/blog/baby-eczema-guide.html)
+- [Baby Colic Soothing Techniques](https://mamaknowsbest.live/blog/baby-colic-soothing-techniques.html)
+- [Baby Constipation Guide](https://mamaknowsbest.live/blog/baby-constipation-guide.html)
+- [Baby Gas Relief](https://mamaknowsbest.live/blog/baby-gas-relief.html)
+- [Diaper Rash: Causes and Treatment](https://mamaknowsbest.live/blog/diaper-rash-causes-and-treatment.html)
+- [Car Seat Safety Guide](https://mamaknowsbest.live/blog/car-seat-safety-guide.html)
+- [Baby Proofing Checklist](https://mamaknowsbest.live/blog/baby-proofing-checklist.html)
+- [Baby Swimming Guide](https://mamaknowsbest.live/blog/baby-swimming-guide.html)
 
-Once your site is live, do a find-and-replace in all HTML files:
+## 🤰 Pregnancy & Birth
 
-- Replace: `hijmayer`
-- With: your actual GitHub username
+- [Packing Your Hospital Bag](https://mamaknowsbest.live/blog/packing-hospital-bag.html)
+- [Fourth Trimester Guide](https://mamaknowsbest.live/blog/fourth-trimester-guide.html)
+- [Postpartum Recovery Tips](https://mamaknowsbest.live/blog/postpartum-recovery-tips.html)
+- [Postpartum Body Changes](https://mamaknowsbest.live/blog/postpartum-body-changes.html)
+- [Postpartum Depression Guide](https://mamaknowsbest.live/blog/postpartum-depression-guide.html)
+- [Partner Support Postpartum](https://mamaknowsbest.live/blog/partner-support-postpartum.html)
+- [C-Section Recovery Guide](https://mamaknowsbest.live/blog/c-section-recovery-guide.html)
 
-You can do this right in GitHub — click any file, click the ✏️ edit button, make your changes, and click **Commit changes**.
+## 🧠 Mom Wellness & Mental Health
 
----
+- [Managing Mom Guilt](https://mamaknowsbest.live/blog/managing-mom-guilt.html)
+- [Self-Care for Moms](https://mamaknowsbest.live/blog/self-care-for-moms.html)
+- [Mom Mental Health Guide](https://mamaknowsbest.live/blog/mom-mental-health-guide.html)
+- [Work-Life Balance for Moms](https://mamaknowsbest.live/blog/work-life-balance-for-moms.html)
+- [Building a Mom Support Network](https://mamaknowsbest.live/blog/building-support-network.html)
 
-## 💰 Setting Up Google AdSense
+## 🛒 Baby Gear & Products
 
-### Step 1: Apply for AdSense
-1. Go to [google.com/adsense](https://www.google.com/adsense)
-2. Sign in with your Google account
-3. Enter your website URL (your GitHub Pages URL)
-4. Apply and wait for approval (can take days to weeks for a new site)
+- [Best Baby Gear](https://mamaknowsbest.live/blog/best-baby-gear.html)
+- [Eco-Friendly Baby Products](https://mamaknowsbest.live/blog/eco-friendly-baby-products.html)
+- [Budget-Friendly Baby Tips](https://mamaknowsbest.live/blog/budget-baby-tips.html)
 
-> **Note:** Google requires your site to have original content and meet their policies. Your site already includes everything needed: privacy policy, disclaimer, and original articles.
+## 🌱 Toddler & Parenting
 
-### Step 2: Add Your AdSense Code
-Once approved, Google gives you a script tag like:
-```html
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
-```
-
-In each HTML file, find this comment near the top of the `<head>`:
-```html
-<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
-```
-
-Remove the `<!-- -->` comment markers and replace `ca-pub-XXXXXXXXXXXXXXXX` with your actual Publisher ID.
-
-### Step 3: Replace Ad Placeholder Divs
-Throughout the site you'll find placeholder divs like:
-```html
-<div class="ad-slot ad-slot--leaderboard">Advertisement</div>
-```
-
-Replace these with your actual AdSense ad unit code. Create ad units in your AdSense dashboard:
-- **Leaderboard** (728×90) → for the top banner slots
-- **Rectangle** (300×250) → for sidebar and mid-article slots
-
----
-
-## ✏️ How to Edit Content in GitHub
-
-Yes! You can edit everything right in GitHub without downloading anything:
-
-1. Go to your repository on GitHub
-2. Click the file you want to edit (e.g., `index.html`)
-3. Click the **pencil icon** (✏️) at the top right of the file
-4. Make your changes
-5. Scroll down and click **Commit changes**
-
-Your site will automatically update within about 30 seconds!
-
-### Things you'll want to customize:
-- **Blog post content** — edit the HTML files in the `blog/` folder
-- **About page** — update `about.html` with your personal story
-- **Social media links** — search for `href="#"` in any file and replace with your real links
-- **Newsletter** — currently shows a success message but doesn't actually send. Connect to Mailchimp/ConvertKit by replacing the form with their embed code.
+- [Toddler Tantrums Guide](https://mamaknowsbest.live/blog/toddler-tantrums-guide.html)
+- [Potty Training Tips](https://mamaknowsbest.live/blog/potty-training-tips.html)
+- [Screen Time Guidelines for Kids](https://mamaknowsbest.live/blog/screen-time-guidelines.html)
+- [Raising Independent Kids](https://mamaknowsbest.live/blog/raising-independent-kids.html)
+- [Building Healthy Attachment](https://mamaknowsbest.live/blog/building-healthy-attachment.html)
 
 ---
 
-## 📁 File Structure
+*All content is written by Jordan, a mother with a passion for evidence-based parenting. Articles reference guidance from the AAP, CDC, and ACOG.*
 
-```
-mama-knows-best/
-├── index.html                          ← Homepage
-├── about.html                          ← About page
-├── privacy.html                        ← Privacy Policy
-├── disclaimer.html                     ← Disclaimer
-├── style.css                           ← All styles (edit to change colors/fonts)
-├── README.md                           ← This file
-└── blog/
-    ├── sleep-training-guide.html
-    ├── newborn-feeding-tips.html
-    ├── baby-milestones-first-year.html
-    └── best-baby-gear.html
-```
-
----
-
-## 💡 Tips for Growing Your AdSense Revenue
-
-1. **Write more articles** — more content = more pages = more ad impressions. Aim for 2–3 articles per week.
-2. **Target high-CPC keywords** — baby gear reviews and "best product" posts tend to earn more per click.
-3. **Optimize for SEO** — each article already has meta descriptions and structured data. Update the `og:url` and `canonical` tags once your site is live.
-4. **Promote on Pinterest** — parenting content does exceptionally well on Pinterest. Create pins for each article.
-5. **Build your email list** — replace the newsletter form with a real email service (Mailchimp has a free tier) to build a direct audience.
-
----
-
-## 🎨 Customizing the Design
-
-All colors are defined as CSS variables at the top of `style.css`:
-
-```css
-:root {
-  --rose:      #E8927C;   /* Main brand color */
-  --deep-rose: #C96A52;   /* Darker accent */
-  --blush:     #F7D6D0;   /* Light background tint */
-  --sage:      #8EAD8B;   /* Green accent (tips strip) */
-  --charcoal:  #3A3530;   /* Main text color */
-}
-```
-
-Change these values to completely transform the look of the site.
-
----
-
-## ❓ Need Help?
-
-If anything is unclear, you can edit this README directly in GitHub too. Good luck, mama — you've got this! 🌸
+*© 2026 Mama Knows Best*
