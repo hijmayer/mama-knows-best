@@ -16,11 +16,10 @@ A trusted parenting and baby care blog written by Jordan — covering everything
 - [Newborn Weight Gain](https://mamaknowsbest.live/blog/newborn-weight-gain.html)
 - [Newborn Jaundice Guide](https://mamaknowsbest.live/blog/newborn-jaundice-guide.html)
 - [Safe Sleep Guidelines for Babies](https://mamaknowsbest.live/blog/safe-sleep-guidelines.html)
-- [Tummy Time Guide](https://mamaknowsbest.live/blog/tummy-time-guide.html)
 
 ## 🍼 Feeding & Nutrition
 
-- [Breastfeeding & Pumping Guide](https://mamaknowsbest.live/blog/breastfeeding-pumping-guide.html)
+- [Breastfeeding and Pumping Guide](https://mamaknowsbest.live/blog/breastfeeding-pumping-guide.html)
 - [Breastfeeding Tips for New Moms](https://mamaknowsbest.live/blog/breastfeeding-tips-for-new-moms.html)
 - [Breastfeeding Challenges](https://mamaknowsbest.live/blog/breastfeeding-challenges.html)
 - [Formula Feeding Guide](https://mamaknowsbest.live/blog/formula-feeding-guide.html)
@@ -28,12 +27,14 @@ A trusted parenting and baby care blog written by Jordan — covering everything
 - [Baby-Led Weaning Guide](https://mamaknowsbest.live/blog/baby-led-weaning-guide.html)
 - [Baby Food Allergies](https://mamaknowsbest.live/blog/baby-food-allergies.html)
 - [Toddler Nutrition Guide](https://mamaknowsbest.live/blog/toddler-nutrition-guide.html)
+- [Toddler Picky Eating](https://mamaknowsbest.live/blog/toddler-picky-eating.html)
 
 ## 😴 Sleep
 
 - [Baby Sleep Regressions](https://mamaknowsbest.live/blog/baby-sleep-regressions.html)
-- [Sleep Training Methods](https://mamaknowsbest.live/blog/sleep-training-methods.html)
+- [Sleep Training Guide](https://mamaknowsbest.live/blog/sleep-training-guide.html)
 - [Newborn Sleep Patterns](https://mamaknowsbest.live/blog/newborn-sleep-patterns.html)
+- [Toddler Sleep Schedule](https://mamaknowsbest.live/blog/toddler-sleep-schedule.html)
 
 ## 👶 Baby Development & Milestones
 
@@ -42,6 +43,7 @@ A trusted parenting and baby care blog written by Jordan — covering everything
 - [Baby Brain Development](https://mamaknowsbest.live/blog/baby-brain-development.html)
 - [Baby Developmental Delays](https://mamaknowsbest.live/blog/baby-developmental-delays.html)
 - [Baby Massage Guide](https://mamaknowsbest.live/blog/baby-massage-guide.html)
+- [Teething Remedies](https://mamaknowsbest.live/blog/teething-remedies.html)
 
 ## 🏥 Baby Health & Safety
 
@@ -58,34 +60,37 @@ A trusted parenting and baby care blog written by Jordan — covering everything
 ## 🤰 Pregnancy & Birth
 
 - [Packing Your Hospital Bag](https://mamaknowsbest.live/blog/packing-hospital-bag.html)
+- [Pregnancy Nutrition Guide](https://mamaknowsbest.live/blog/pregnancy-nutrition-guide.html)
+- [Pregnancy Exercise Guide](https://mamaknowsbest.live/blog/pregnancy-exercise-guide.html)
+- [Pregnancy Discomforts](https://mamaknowsbest.live/blog/pregnancy-discomforts.html)
+- [Preparing Siblings for a New Baby](https://mamaknowsbest.live/blog/preparing-siblings-new-baby.html)
+
+## 🌸 Postpartum & Recovery
+
 - [Fourth Trimester Guide](https://mamaknowsbest.live/blog/fourth-trimester-guide.html)
 - [Postpartum Recovery Tips](https://mamaknowsbest.live/blog/postpartum-recovery-tips.html)
 - [Postpartum Body Changes](https://mamaknowsbest.live/blog/postpartum-body-changes.html)
-- [Postpartum Depression Guide](https://mamaknowsbest.live/blog/postpartum-depression-guide.html)
+- [Postpartum Depression Signs](https://mamaknowsbest.live/blog/postpartum-depression-signs.html)
 - [Partner Support Postpartum](https://mamaknowsbest.live/blog/partner-support-postpartum.html)
-- [C-Section Recovery Guide](https://mamaknowsbest.live/blog/c-section-recovery-guide.html)
 
 ## 🧠 Mom Wellness & Mental Health
 
 - [Managing Mom Guilt](https://mamaknowsbest.live/blog/managing-mom-guilt.html)
 - [Self-Care for Moms](https://mamaknowsbest.live/blog/self-care-for-moms.html)
-- [Mom Mental Health Guide](https://mamaknowsbest.live/blog/mom-mental-health-guide.html)
-- [Work-Life Balance for Moms](https://mamaknowsbest.live/blog/work-life-balance-for-moms.html)
-- [Building a Mom Support Network](https://mamaknowsbest.live/blog/building-support-network.html)
+
+## 🌱 Toddler & Parenting
+
+- [Toddler Tantrum Tips](https://mamaknowsbest.live/blog/toddler-tantrum-tips.html)
+- [Potty Training Tips](https://mamaknowsbest.live/blog/potty-training-tips.html)
+- [Toddler Screen Time](https://mamaknowsbest.live/blog/toddler-screen-time.html)
+- [Raising Independent Toddlers](https://mamaknowsbest.live/blog/raising-independent-toddlers.html)
+- [Toddler Discipline Guide](https://mamaknowsbest.live/blog/toddler-discipline-guide.html)
+- [Toddler Language Development](https://mamaknowsbest.live/blog/toddler-language-development.html)
 
 ## 🛒 Baby Gear & Products
 
 - [Best Baby Gear](https://mamaknowsbest.live/blog/best-baby-gear.html)
-- [Eco-Friendly Baby Products](https://mamaknowsbest.live/blog/eco-friendly-baby-products.html)
-- [Budget-Friendly Baby Tips](https://mamaknowsbest.live/blog/budget-baby-tips.html)
-
-## 🌱 Toddler & Parenting
-
-- [Toddler Tantrums Guide](https://mamaknowsbest.live/blog/toddler-tantrums-guide.html)
-- [Potty Training Tips](https://mamaknowsbest.live/blog/potty-training-tips.html)
-- [Screen Time Guidelines for Kids](https://mamaknowsbest.live/blog/screen-time-guidelines.html)
-- [Raising Independent Kids](https://mamaknowsbest.live/blog/raising-independent-kids.html)
-- [Building Healthy Attachment](https://mamaknowsbest.live/blog/building-healthy-attachment.html)
+- [Recommended Products](https://mamaknowsbest.live/recommended-products.html)
 
 ---
 
