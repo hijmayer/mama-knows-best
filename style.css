@@ -503,3 +503,44 @@ a:hover { text-decoration: underline; }
   .newsletter-form input { width: 100%; }
   .post-hero h1 { font-size: 1.8rem; }
 }
+
+
+/* Legacy post template */
+body > header:not(.site-header) {
+  background: #fffdfb;
+  border-bottom: 1px solid #f3e3dd;
+  padding: 0.9rem 1.5rem;
+  position: sticky; top: 0; z-index: 50;
+}
+body > header:not(.site-header) nav {
+  max-width: 1100px; margin: 0 auto;
+  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;
+}
+body > header:not(.site-header) .logo a {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.35rem; font-weight: 700; color: #c46a4a; text-decoration: none;
+}
+body > header:not(.site-header) ul {
+  display: flex; gap: 1.5rem; list-style: none; margin: 0; padding: 0;
+}
+body > header:not(.site-header) ul a {
+  color: #555; text-decoration: none; font-weight: 600; font-size: 0.95rem;
+}
+body > header:not(.site-header) ul a:hover { color: #c46a4a; }
+main.blog-post {
+  max-width: 740px; margin: 2.5rem auto; padding: 0 1.25rem;
+  line-height: 1.75; color: #3d3d3d; font-size: 1.05rem;
+}
+main.blog-post h1 { font-family: 'Playfair Display', Georgia, serif; font-size: 2.1rem; line-height: 1.25; color: #2e2e2e; margin-bottom: 0.5rem; }
+main.blog-post h2 { font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; color: #2e2e2e; margin: 2.2rem 0 0.8rem; }
+main.blog-post h3 { font-size: 1.15rem; margin: 1.6rem 0 0.5rem; color: #444; }
+main.blog-post img { max-width: 100%; height: auto; border-radius: 8px; }
+main.blog-post ul, main.blog-post ol { padding-left: 1.4rem; margin: 0.8rem 0; }
+main.blog-post li { margin: 0.35rem 0; }
+main.blog-post a { color: #c0396b; }
+body > footer:not(.site-footer) {
+  background: #faf3ef; border-top: 1px solid #f0e0d8;
+  text-align: center; padding: 2rem 1.5rem; margin-top: 3rem;
+  font-size: 0.9rem; color: #777;
+}
+body > footer:not(.site-footer) a { color: #c0396b; text-decoration: none; }
