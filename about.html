@@ -105,12 +105,15 @@
   <div style="background: var(--cream); border-radius: var(--radius-lg); padding: 40px; margin: 32px 0;">
     <h3 style="font-family: var(--font-serif); font-size: 1.4rem; margin-bottom: 8px; color: var(--charcoal);">Send Me a Message 💌</h3>
     <p style="color: var(--mid-gray); font-size: 0.9rem; margin-bottom: 24px;">I read every single one.</p>
-    <form action="mailto:" method="get" enctype="text/plain" onsubmit="handleContact(event)" style="display:flex; flex-direction:column; gap:16px;">
-      <input type="text" placeholder="Your name" required style="padding:14px 18px; border: 1px solid var(--light-gray); border-radius: var(--radius); font-size:0.95rem; font-family: var(--font-sans); outline:none;" />
-      <input type="email" placeholder="Your email" required style="padding:14px 18px; border: 1px solid var(--light-gray); border-radius: var(--radius); font-size:0.95rem; font-family: var(--font-sans); outline:none;" />
-      <textarea placeholder="Your message..." rows="5" required style="padding:14px 18px; border: 1px solid var(--light-gray); border-radius: var(--radius); font-size:0.95rem; font-family: var(--font-sans); outline:none; resize:vertical;"></textarea>
+    <form action="https://formsubmit.co/4776326805262f511b6ee88bcdfc095f" method="POST">
+      <input type="text" placeholder="Your name" name="name" required required style="padding:14px 18px; border: 1px solid var(--light-gray); border-radius: var(--radius); font-size:0.95rem; font-family: var(--font-sans); outline:none;" />
+      <input type="email" placeholder="Your email" required style="padding:14px 18px; border: 1px solid var(--light-gray); border-radius: var(--radius); font-size:0.95rem; font-family: var(--font-sans); outline:none;" / name="email" required>
+      <textarea placeholder="Your message..." rows="5" required style="padding:14px 18px; border: 1px solid var(--light-gray); border-radius: var(--radius); font-size:0.95rem; font-family: var(--font-sans); outline:none; resize:vertical;" name="message" required></textarea>
       <button type="submit" class="btn btn-primary" style="align-self:flex-start;">Send Message 💌</button>
-    </form>
+      <input type="hidden" name="_subject" value="New message from mamaknowsbest.live">
+  <input type="hidden" name="_next" value="https://mamaknowsbest.live/about.html?sent=1#contact">
+  <input type="text" name="_honey" style="display:none">
+</form>
   
     <p id="contact-success" style="display:none; color:var(--sage-dark); font-weight:700; margin-top:16px;">✅ Message sent! I'll be in touch soon.</p>
   </div>
@@ -159,7 +162,11 @@
 <script>
   document.getElementById('hamburger').addEventListener('click',function(){document.getElementById('site-nav').classList.toggle('open');});
   function handleSubscribe(e){e.preventDefault();const btn=e.target.querySelector('button');btn.textContent='✅ You\'re in!';btn.disabled=true;}
-  function handleContact(e){e.preventDefault();document.getElementById('contact-success').style.display='block';e.target.reset();}
+  function handleContact(e) { /* native POST to FormSubmit */ }
+if (new URLSearchParams(location.search).get('sent') === '1') {
+  var ok = document.getElementById('contact-success');
+  if (ok) { ok.style.display = 'block'; ok.scrollIntoView({block:'center'}); }
+}
 </script>
 </body>
 </html>
