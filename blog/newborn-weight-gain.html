@@ -39,31 +39,45 @@
   </script>
 </head>
 <body>
-  <header>
-    <nav>
-      <div class="logo"><a href="../index.html">🌸 Mama Knows Best</a></div>
-      <ul>
-        <li><a href="../index.html">Home</a></li>
-        <li><a href="../about.html">About</a></li>
-      </ul>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="../index.html" class="logo">
+      <span class="logo-name">🌸 Mama Knows Best</span>
+      <span class="logo-tagline">Real advice for real mamas</span>
+    </a>
+    <nav class="site-nav" id="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../index.html#categories">Topics</a>
+      <a href="../about.html">About</a>
     </nav>
-  </header>
-  <nav class="breadcrumb-nav" aria-label="Breadcrumb" style="background:#fff8fa;border-bottom:1px solid #f9c0cb;padding:.6rem 1.5rem;font-size:.85rem;color:#888;">
-    <div class="container" style="max-width:900px;margin:0 auto;display:flex;align-items:center;gap:.4rem;flex-wrap:wrap;">
-      <a href="/" style="color:#e8698a;text-decoration:none;font-weight:600;">Home</a>
-      <span aria-hidden="true">›</span>
-      <a href="/category/pregnancy.html" style="color:#e8698a;text-decoration:none;font-weight:600;">Pregnancy</a>
-      <span aria-hidden="true">›</span>
-      <span style="color:#666;">Newborn Weight Gain: What's Normal and Whe…</span>
-    </div>
-  </nav>
-  <main class="blog-post">
-    <article>
-      <div class="post-header">
-        <span class="category">Newborn</span>
-        <h1>Newborn Weight Gain: What's Normal and When to Worry</h1>
-        <p class="post-meta">By Jordan • November 2024 • 6 min read</p>
-      </div>
+    <button class="hamburger" id="hamburger" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<!-- Top Ad -->
+<div class="ad-banner">
+  <div class="ad-slot ad-slot--leaderboard" style="margin:8px auto;">Advertisement</div>
+</div>
+
+<!-- Post Hero -->
+<div class="post-hero">
+  <span class="post-card__tag post-tag">👶 Newborn</span>
+  <h1>Newborn Weight Gain: What's Normal and When to Worry</h1>
+  <div class="post-meta">
+    <span>👩 By Jordan</span>
+    <span>📅 November 2024</span>
+    <span>⏱️ 6 min read</span>
+  </div>
+</div>
+
+<div class="post-layout">
+
+  <!-- Main Content -->
+  <article class="post-content">
+
 
       <p>Nobody warned me how much emotion gets tied up in those early weight checks! Newborns are expected to lose some weight after birth before gaining it back, but when it's your baby on the scale, 'normal range' doesn't always feel normal. Our own feeding start was bumpy, so I know that worry well. Here's what the numbers actually mean and when they matter.</p>
 
@@ -165,11 +179,58 @@
 </div>
 </section>
 
+  
   </article>
-  </main>
+  <aside class="sidebar">
+    <div class="ad-slot ad-slot--rectangle" style="margin-bottom:24px"><span>Advertisement</span></div>
+    <div class="sidebar-widget">
+      <h3>Popular Articles</h3>
+      <a href="sleep-training-guide.html" class="sidebar-post"><span class="mini-tag">Sleep</span> <span>The Gentle Sleep Training Guide</span></a>
+      <a href="breastfeeding-tips-for-new-moms.html" class="sidebar-post"><span class="mini-tag">Feed</span> <span>Breastfeeding Tips for New Moms</span></a>
+      <a href="baby-milestones-first-year.html" class="sidebar-post"><span class="mini-tag">Dev</span> <span>Baby Milestones Month by Month</span></a>
+      <a href="newborn-care-essentials.html" class="sidebar-post"><span class="mini-tag">Baby</span> <span>Newborn Care Essentials</span></a>
+    </div>
+    <div class="sidebar-widget">
+      <h3>👋 Hi, I'm Jordan</h3>
+      <p style="font-size:.92rem;line-height:1.6;color:#666;">Mama of two behind Mama Knows Best. I write the honest, judgment-free advice I wish I'd had in the newborn trenches.</p>
+      <a href="../about.html" style="font-weight:600;">Read my story →</a>
+    </div>
+  </aside>
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <span class="logo-name">🌸 Mama Knows Best</span>
+        <p>Warm, honest parenting advice from one mama to another.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Topics</h4>
+        <ul>
+          <li><a href="sleep-training-guide.html">Sleep Training</a></li>
+          <li><a href="newborn-feeding-tips.html">Feeding</a></li>
+          <li><a href="baby-milestones-first-year.html">Development</a></li>
+          <li><a href="best-baby-gear.html">Baby Gear</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Info</h4>
+        <ul>
+          <li><a href="../about.html">About</a></li>
+          <li><a href="../privacy.html">Privacy Policy</a></li>
+          <li><a href="../disclaimer.html">Disclaimer</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 Mama Knows Best. All rights reserved.</p>
+    </div>
+  </div>
+<div style="text-align:center;padding:0 0 1rem;font-size:.85rem"><a href="../terms.html" style="color:#c9a">Terms</a> · <a href="../editorial-policy.html" style="color:#c9a">Editorial Policy</a></div></footer>
 
-  <footer>
-    <p>&copy; 2026 Mama Knows Best &bull; <a href="../privacy.html">Privacy Policy</a> &bull; <a href="../disclaimer.html">Disclaimer</a></p>
-  </footer>
+<script>
+  document.getElementById('hamburger').addEventListener('click', function() {
+    document.getElementById('site-nav').classList.toggle('open');
+  });
+</script>
 </body>
 </html>
