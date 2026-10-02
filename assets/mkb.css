@@ -67,7 +67,7 @@ a.eyebrow:hover{color:var(--sage-dark)}
 .hero-lede{font-size:1.15rem;color:var(--muted);max-width:30em;margin-bottom:32px}
 .hero-actions{display:flex;gap:12px;flex-wrap:wrap}
 .hero-photo{position:relative}
-.hero-photo img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:var(--r-lg)}
+.hero-photo img{width:100%;aspect-ratio:1/1;object-fit:cover;object-position:center top;border-radius:var(--r-lg)}
 .hero-photo figcaption{position:absolute;left:18px;bottom:18px;background:rgba(250,248,244,.94);padding:10px 16px;border-radius:999px;font-size:.85rem;color:var(--ink)}
 @media (max-width:860px){.hero{padding:36px 0 48px}.hero-grid{grid-template-columns:1fr;gap:32px}.hero-photo img{aspect-ratio:4/3}}
 
@@ -95,7 +95,7 @@ a.eyebrow:hover{color:var(--sage-dark)}
 .card-media img{width:100%;height:100%;object-fit:cover}
 .card-media.is-blank{display:flex;align-items:flex-end;padding:18px;background:linear-gradient(135deg,var(--sage-soft),var(--sand))}
 .card-media.is-blank span{font-family:var(--serif);font-size:1rem;color:var(--sage-dark);opacity:.8}
-.card-body{padding:20px 22px 22px;display:flex;flex-direction:column;flex:1}
+.card-body{padding:24px 24px 22px;display:flex;flex-direction:column;flex:1}
 .card-body .eyebrow{margin-bottom:8px}
 .card h3{font-size:1.22rem;margin:0 0 10px;transition:color .2s}
 .card:hover h3{color:var(--sage-dark)}
