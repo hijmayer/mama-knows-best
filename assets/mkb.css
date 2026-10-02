@@ -167,7 +167,7 @@ a.eyebrow:hover{color:var(--sage-dark)}
 .prose blockquote{margin:1.8em 0;padding:4px 0 4px 24px;border-left:2px solid var(--sage);font-family:var(--serif);font-size:1.25rem;color:var(--ink)}
 .prose hr{border:0;border-top:1px solid var(--line);margin:2.5em 0}
 .prose figure{margin:2.2em 0}
-.prose figure img{width:100%;border-radius:var(--r)}
+.prose figure img{width:auto;max-width:100%;max-height:560px;margin:0 auto;border-radius:var(--r)}
 .prose figcaption{font-size:.88rem;color:var(--muted);text-align:center;margin-top:10px;font-style:italic}
 .table-wrap{overflow-x:auto;margin:1.6em 0;border:1px solid var(--line);border-radius:var(--r);-webkit-overflow-scrolling:touch}
 .prose table{width:100%;border-collapse:collapse;font-size:.94rem;min-width:520px}
@@ -192,7 +192,7 @@ a.eyebrow:hover{color:var(--sage-dark)}
 .prose .product-grid a strong,.prose .product-grid a h4{font-family:var(--serif);font-size:1.05rem;color:var(--ink);display:block}
 .sources{font-size:.9rem;color:var(--muted)}
 .author-card{display:flex;gap:20px;align-items:center;margin:3em 0 0;padding:26px;background:var(--sand);border-radius:var(--r-lg)}
-.author-card img{width:84px;height:84px;border-radius:50%;object-fit:cover;flex:none}
+.author-card .avatar{width:64px;height:64px;font-size:1.7rem;background:var(--surface)}
 .author-card p{margin:0 0 6px;font-size:.95rem}
 .author-card strong{font-family:var(--serif);font-weight:500;font-size:1.15rem;color:var(--ink)}
 .related{margin-top:3em}
@@ -200,11 +200,11 @@ a.eyebrow:hover{color:var(--sage-dark)}
 .related-list{display:grid;gap:0}
 .related-list a{display:block;padding:14px 0;border-bottom:1px solid var(--line);font-family:var(--serif);font-size:1.1rem;color:var(--ink);text-decoration:none}
 .related-list a:hover{color:var(--sage-dark)}
-.sidebar{position:sticky;top:96px;display:flex;flex-direction:column;gap:22px}
-@media (max-width:1000px){.sidebar{position:static}}
+.sidebar{display:flex;flex-direction:column;gap:22px}
 .side-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:24px}
 .side-card h3{font-family:var(--sans);font-size:.75rem;letter-spacing:.14em;text-transform:uppercase;color:var(--sage);font-weight:600;margin-bottom:12px}
-.side-card img{width:72px;height:72px;border-radius:50%;object-fit:cover;margin-bottom:14px}
+.avatar{display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border-radius:50%;background:var(--sage-soft);color:var(--sage-dark);font:500 1.5rem var(--serif);flex:none}
+.side-card .avatar{margin-bottom:14px}
 .side-card p{font-size:.93rem;color:var(--body)}
 .side-card a.more{font-weight:600;font-size:.92rem;text-decoration:none}
 .side-list{list-style:none;padding:0;margin:0}
